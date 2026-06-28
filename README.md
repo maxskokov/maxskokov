@@ -25,12 +25,18 @@ Tools — git, vim, GDB basics
 
 Background
 
-Before programming I competed in whitewater canoe slalom — earned KMS rank
+Before programming I competed in whitewater canoe slalom — earned KMS rank.
+
+Now
+
+
+Contributing to OpenWrt LuCI daily
+Reviewing open PRs and architecture discussions
 Working toward LuCI project membership
 
 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=maxskokov&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxskokov&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=maxskokov&theme=default&hide_border=true" height="150"/>
 </p>
