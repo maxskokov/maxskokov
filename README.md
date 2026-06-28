@@ -43,6 +43,5 @@ Before programming I competed in whitewater canoe slalom — earned KMS rank.
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxskokov&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=maxskokov&theme=default&hide_border=true" height="150"/>
 </p>
