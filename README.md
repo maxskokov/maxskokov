@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29444966/README.md)
 # Maxim Skokov
 
 Embedded Linux & networking developer. Currently contributing to [OpenWrt LuCI](https://github.com/openwrt/luci) — working toward project membership.
