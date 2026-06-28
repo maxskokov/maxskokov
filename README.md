@@ -1,50 +1,36 @@
-# 👋 Hi, I'm Maxim Skokov (@maxskokov)
+Maxim Skokov
+
+Embedded Linux & networking developer. Currently contributing to OpenWrt LuCI — working toward project membership.
+
+I got into open source after setting up my own VPS, flashing a router with OpenWrt, and noticing a crash in the web interface inside a Docker container. Fixed it, sent the PR, and haven't stopped since.
+
+
+OpenWrt / LuCI Contributions
+
+Focused on runtime correctness, dispatcher logic, and network UI — not surface-level CSS, but the layer that makes the interface actually work.
+
+PRDescriptionStatus#8744Fix missing nixio.fs import making file_depends silently non-functional✅ Merged#8743Fix empty data-page attribute and broken login redirect on root URL (4 files)✅ Merged#8741Remove dead load() in babeld breaking the status page after refactor✅ Merged#8739Handle null board info in container environments without procd✅ Merged#8748Fix word-break: break-all causing mid-word line breaks in system info🔄 Open#8746Fix DNS forward validation rejecting valid server=ip@iface specs🔄 Open
+
+
+Stack
+
+OS / Embedded — Linux (NixOS, Arch, AntiX), OpenWrt, Docker, ubus, UCI, ucode
+
+Networking — nl80211, netlink, dnsmasq, netifd, rpcd
+
+Languages — JavaScript, Lua, shell, regex
+
+Tools — git, vim, GDB basics
+
+
+Background
+
+Before programming I competed in whitewater canoe slalom — earned KMS rank
+Working toward LuCI project membership
+
+
 
 <p align="left">
-  <img src="https://shields.io" alt="Role">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Focus">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxskokov&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxskokov&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
-
-A highly disciplined Junior DevOps and Linux Systems Engineer with a deep passion for system architecture, declarative OS configurations, and runtime environment optimization. I specialize in low-level troubleshooting, container orchestration, and continuous integration.
-
----
-
-### Tech Stack & Ecosystems
-
-* **Declarative & Source-Based Linux:** 
-  ![NixOS](https://shields.io) 
-  ![Gentoo](https://shields.io) 
-  ![Arch Linux](https://shields.io) 
-  ![Debian](https://shields.io)
-* **Init Systems & Core Runtimes:** `systemd` | `runit` | `procd (OpenWrt)`
-* **Containerization & IaC:** 
-  ![Docker](https://shields.io) 
-  ![Docker Compose](https://shields.io) 
-  ![Kubernetes](https://shields.io)
-* **Automation & Scripting:** `Bash / POSIX Shell` | `Git` | `CI/CD Pipelines`
-
----
-
-### Key Projects & Contributions
-
-* **[nixos-docker-openwrt](https://github.com)** — Author of a production-ready, declarative IaC stack designed to run optimized OpenWrt 24.10 containers inside modern NixOS environments (Linux kernels 6.12+). Solved critical system bus execution bugs by orchestrating custom init layers within runtime configurations.
-* **[openwrt/luci](https://github.com)** — Active upstream Open Source contributor. Identified, reverse-engineered, and isolated an architectural rendering edge-case (Issue #8726) involving compiler failures during emergency stack unwinding inside stripped container runtimes.
-
----
-
-### GitHub Analytics
-
-<p align="left">
-  <img src="https://vercel.app" alt="Maxim's GitHub Stats" width="480">
-</p>
-
----
-
-### Connect with Me
-
-* **Habr Career:** [career.habr.com/maxskokov](https://career.habr.com/maxskokov)
-* **Telegram:** [@neverfalse](https://t.me)
-* **Docker Hub:** [hub.docker.com/u/maxskokov](https://hub.docker.com/u/maxskokov)
-
-<p align="right"><i>"Driven by system transparency and performance."</i></p>
