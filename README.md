@@ -2,8 +2,6 @@
 
 Embedded Linux & networking developer. Currently contributing to [OpenWrt LuCI](https://github.com/openwrt/luci) — working toward project membership.
 
-I got into open source after setting up my own VPS, flashing a router with OpenWrt, and noticing a crash in the web interface inside a Docker container. Fixed it, sent the PR, and haven't stopped since.
-
 ---
 
 ## OpenWrt / LuCI Contributions
@@ -30,7 +28,7 @@ Areas: ubus/UCI integration, Lua dispatcher, ucode runtime, nl80211/wireless UI,
 
 ## Background
 
-Before programming I competed in whitewater canoe slalom — earned KMS rank.
+Before programming I competed in whitewater canoe slalom — earned KMS(Candidate for Master of Sports) rank.
 
 ---
 
