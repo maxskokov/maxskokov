@@ -11,6 +11,8 @@ I work on the layer that makes the interface actually function — dispatcher lo
 [![Merged PRs](https://img.shields.io/github/issues-search/openwrt/luci?query=author%3Amaxskokov+is%3Amerged&label=merged&color=238636&style=flat-square)](https://github.com/openwrt/luci/pulls?q=is%3Apr+author%3Amaxskokov+is%3Amerged)
 [![Open PRs](https://img.shields.io/github/issues-search/openwrt/luci?query=author%3Amaxskokov+is%3Aopen&label=open&color=0969da&style=flat-square)](https://github.com/openwrt/luci/pulls?q=is%3Apr+author%3Amaxskokov+is%3Aopen)
 
+[All pull requests →](https://github.com/openwrt/luci/pulls?q=is%3Apr+author%3Amaxskokov)
+
 &nbsp;
 
 ## Stack
