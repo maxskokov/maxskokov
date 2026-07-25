@@ -4,12 +4,14 @@ Infrastructure and Linux systems, mostly self-taught. I like the layer where
 containers, init systems and networking meet — and the bugs that only show up there.
 
 &nbsp;
+Looking for a DevOps/SRE internship at Moscow.
+&nbsp;
 
 ## Current focus
 
 - Linux internals and diagnostics — NixOS as a daily driver, plus Alpine and Arch
 - Containers and reproducible builds: Docker, Nix flakes, CI pipelines
-- Python and Bash for automation (Go next)
+- Python and Bash for automation, Go
 
 &nbsp;
 
