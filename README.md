@@ -1,18 +1,6 @@
 # Maxim Skokov
 
-I like the layer where containers, init systems and networking meet.
-Mostly self-taught. I tend to end up running things in environments
-nobody tested, which is exactly where the interesting bugs live.
-
 > Looking for a DevOps/SRE internship in Moscow.
-
-&nbsp;
-
-## What I'm doing now
-
-- Linux internals and diagnostics. NixOS as a daily driver, plus Alpine and Arch.
-- Containers and reproducible builds: Docker, Nix flakes, CI pipelines.
-- Automating the boring parts in Python and Bash.
 
 &nbsp;
 
@@ -26,8 +14,7 @@ fix it upstream, and take the patch through maintainer review.
 
 [All pull requests →](https://github.com/openwrt/luci/pulls?q=is%3Apr+author%3Amaxskokov)
 
-There is also [openwrt/docker#205](https://github.com/openwrt/docker/pull/205), where I
-removed a dangling `/etc/resolv.conf` symlink that broke `RUN` on older buildkit.
+There's also [openwrt/docker#205](https://github.com/openwrt/docker/pull/205), a merged fix where I removed a dangling `/etc/resolv.conf` symlink that broke `RUN` on older buildkit.
 
 &nbsp;
 
@@ -37,6 +24,5 @@ removed a dangling `/etc/resolv.conf` symlink that broke `RUN` on older buildkit
 
 &nbsp;
 
-## Before code
-
-Competitive whitewater canoe slalom, KMS (Candidate for Master of Sports).
+## Achievements
+Russian Youth Championship – winner & prize-winner (multiple disciplines), whitewater canoe slalom. KMS (Candidate for Master of Sports).
