@@ -5,7 +5,6 @@ Hi! 👋 I`m 17 y.o. living in Russia and exploring Linux things
 [![OpenWrt Contributor](https://img.shields.io/badge/OpenWrt-Contributor-1E88E5?style=flat-square&logo=openwrt&logoColor=white)](https://github.com/openwrt/luci/pulls?q=is%3Apr+author%3Amaxskokov)
 [![Merged PRs](https://img.shields.io/github/issues-search/openwrt/luci?query=author%3Amaxskokov+is%3Amerged&label=merged&color=238636&style=flat-square)](https://github.com/openwrt/luci/pulls?q=is%3Apr+author%3Amaxskokov+is%3Amerged)
 [![Open PRs](https://img.shields.io/github/issues-search/openwrt/luci?query=author%3Amaxskokov+is%3Aopen&label=open&color=0969da&style=flat-square)](https://github.com/openwrt/luci/pulls?q=is%3Apr+author%3Amaxskokov+is%3Aopen)
-[All pull requests →](https://github.com/openwrt/luci/pulls?q=is%3Apr+author%3Amaxskokov)
 
 There's also [openwrt/docker#205](https://github.com/openwrt/docker/pull/205), a merged fix where I removed a dangling `/etc/resolv.conf` symlink that broke `RUN` on older buildkit.
 
