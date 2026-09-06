@@ -10,6 +10,10 @@ There's also [openwrt/docker#205](https://github.com/openwrt/docker/pull/205), a
 
 [![nixpkgs Contributor](https://img.shields.io/badge/nixpkgs-Contributor-5277C3?style=flat-square&logo=nixos&logoColor=white)](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+author%3Amaxskokov)
 
+[![Linux kernel](https://img.shields.io/badge/Linux%20kernel-patches%20%26%20testing-1A1A1A?style=flat-square&logo=linux&logoColor=white)](https://lore.kernel.org/all/?q=f%3Askokovmaksimevg%40gmail.com)
+[![linux-wireless](https://img.shields.io/badge/linux--wireless-patchwork-238636?style=flat-square)](https://patchwork.kernel.org/project/linux-wireless/list/?submitter=224649)
+[![linux-media](https://img.shields.io/badge/linux--media-patchwork-238636?style=flat-square)](https://patchwork.kernel.org/project/linux-media/list/?submitter=224649)
+
 ## Stack
 `Linux` `NixOS` `Docker` `Nix` `GitHub Actions` `Bash` `Python` `Git` `systemd` `OpenWrt` `Debian` `Alpine`
 &nbsp;
