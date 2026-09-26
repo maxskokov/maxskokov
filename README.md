@@ -1,1 +1,1 @@
-[![Linux kernel](https://img.shields.io/badge/Linux%20kernel-Contributor-1A1A1A?style=flat-square&logo=linux&logoColor=white "All my kernel mail: patches, reviews and Tested-by reports")](https://lore.kernel.org/all/?q=f%3Askokovmaksimevg%40gmail.com)
+Hacking on the Linux kernel. [My kernel mail](https://lore.kernel.org/all/?q=f%3Askokovmaksimevg%40gmail.com)
